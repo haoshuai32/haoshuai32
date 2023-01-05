@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haoshuai32
+- 👋 Hi, I’m @haoshuai
 - 👀 I’m interested in game
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI
